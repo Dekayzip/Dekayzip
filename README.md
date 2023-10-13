@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dekayzip&label=Profile%20views&color=0e75b6&style=flat" alt="dekayzip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dekayzip" alt="dekayzip" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science and Business Development Projects**
 
