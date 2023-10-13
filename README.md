@@ -1,4 +1,4 @@
-![logo](https://github.com/Dekayzip/Dekayzip/blob/main/Github%20Banner.png)
+![logo](https://github.com/Dekayzip/Dekayzip/blob/main/Github%20Banner%201500x500.png)
 <h1 align="center">Hi 👋, I'm Dharani Kommireddi</h1>
 <h3 align="center">Hey! I'm a Data Enthusiast, Graphic designer, a mild developer but a huge info geek!</h3>
 
