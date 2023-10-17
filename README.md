@@ -1,4 +1,4 @@
-![logo](https://github.com/Dekayzip/Dekayzip/blob/main/Github%20Banner%20gif.gif)
+![logo](https://github.com/Dekayzip/Dekayzip/blob/main/Github%20Banner%201500x500.gif)
 <h1 align="center">Hi 👋, I hope you have a good day 😊</h1>
 <h3 align="center">I'm a Data Science Enthusiast, Graphic designer, a partial developer but a real geek!</h3>
 
