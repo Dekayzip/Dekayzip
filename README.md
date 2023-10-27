@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Business Development Projects<br>👯 I’m looking to collaborate on LLM & other Big Data Projects (or anything interesting)<br>🤝 I’m looking for help with **OPEN SOURCE CONTRIBUTIONS**<br>🌱 I’m currently learning Cloud Frameworks, Dashboarding, Project Management, etc.<br>⚡ Fun fact: I am Fun!<br>👨‍💻 All of my projects are available at https://dekayzip.github.io/My-Portfolio/
+🔭 I’m currently working on Data Science and Business Development Projects<br>👯 I’m looking to collaborate on LLM & other Big Data Projects (or anything interesting)<br>🤝 I’m looking for help with **OPEN SOURCE CONTRIBUTIONS**<br>🌱 I’m currently learning Cloud Frameworks, Dashboarding, Project Management, etc.<br>⚡ Fun fact: I am Fun!<br>👨‍💻 My portfolio is at https://dekayzip.github.io/My-Portfolio/
 
 
 ## 🌐 Socials:
