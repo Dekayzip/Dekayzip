@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dekayzip/Dekayzip/blob/main/Github%20Banner%201500x500.gif)
 <h1 align="center">Hi 👋, I hope you have a good day 😊</h1>
-<h3 align="center">I'm a Data Science Enthusiast, Graphic designer, a partial developer, an entrepreneur but a real geek!!</h3>
+<h3 align="center">I'm a Data Science Enthusiast, Graphic designer, a partial developer, an entrepreneur but a real geek!</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif">
 
