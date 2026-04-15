@@ -1,4 +1,4 @@
-![logo]([https://github.com/Dekayzip/Dekayzip/blob/main/Github_BannerV2.gif](https://raw.githubusercontent.com/Dekayzip/Dekayzip/main/GBV5.gif))
+[![logo](https://raw.githubusercontent.com/Dekayzip/Dekayzip/main/GBV5.gif)](https://github.com/Dekayzip/Dekayzip/blob/main/GBV5.gif)
 <h1 align="center">Hi 👋, I hope you have a good day 😊</h1>
 <h3 align="center">Healthcare & Business Data Analyst · MS Data Science @ DePaul · Data · Dashboards · Decisions</h3>
 
